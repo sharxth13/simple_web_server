@@ -53,7 +53,7 @@ content='''
         <th>Saturday</th>
     </tr>
 
-    <tr>
+<tr>
         <td>8:00 - 9:30 AM</td>
         <td>Web Application</td>
         <td>Web Application</td>
@@ -63,7 +63,7 @@ content='''
         <td>Cyber Law and Compliance</td>
     </tr>
 
-    <tr>
+<tr>
         <td>9:45 AM - 11:15 AM</td>
         <td>Python Programming</td>
         <td>Computer Architect</td>
@@ -77,7 +77,7 @@ content='''
         <td colspan="6">Lunch Break</td>
     </tr>
 
-    <tr>
+<tr>
         <td>1:15 -2:45 PM</td>
         <td>Free slot</td>
         <td>Calculus and Matrix Algebra</td>
@@ -87,7 +87,7 @@ content='''
         <td>Web Application</td>
     </tr>
 
-    <tr>
+<tr>
         <td>3:00 - 4:30 PM</td>
         <td>Free slot</td>
         <td>Python Programming</td>
